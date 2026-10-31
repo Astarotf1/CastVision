@@ -1,0 +1,12 @@
+# Dataset de Kaggle (pesa ~170 MB, se descarga aparte)
+casting_data/
+*.zip
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
