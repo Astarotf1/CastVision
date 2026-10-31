@@ -3,7 +3,7 @@
 Proyecto de la **Entrega 3 · Visión Artificial · ITM** (docente: Cristian Mateo Hernández González).
 Autor: **Sebastián Gallego**.
 
-CastVision clasifica fotos de piezas metálicas fundidas como **OK** o **Defectuosa** usando únicamente el pipeline clásico de Visión Artificial (**sin Deep Learning ni CNNs**):
+CastVision clasifica fotos de piezas metálicas fundidas como **OK** o **Defectuosa** usando únicamente el pipeline clásico de Visión Artificial
 
 ```
 Imagen → Descriptores (HOG · LBP · GLCM) → Z-score → Clasificador (k-NN · SVM · Random Forest)
